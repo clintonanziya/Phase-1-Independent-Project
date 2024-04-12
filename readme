@@ -1,0 +1,22 @@
+Weather App
+
+Description
+This project is a Weather App that displays real-time weather forecasts. It was developed using HTML, CSS, and JavaScript. Users can input a city name to get the current weather information for that city. The app also provides a 5-day forecast for the entered city.
+
+Features
+Enter a city name to get real-time weather information.
+View the current temperature, wind speed, and humidity.
+Use the current location option to get weather information based on the user's location.
+View a 5-day forecast for the entered city.
+
+How to Use
+1. Open the `index.html` file in a web browser.
+2. Enter a city name in the input field and click the "Search" button.
+3. Alternatively, click the "Use Current Location" button to get weather information based on your current location.
+
+Credits
+This project was created by Clinton Anziya.
+(https://github.com/clintonanziya) as part of a coding exercise. 
+
+License
+This project is licensed under the [MIT License](LICENSE).
